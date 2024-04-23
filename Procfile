@@ -1,1 +1,1 @@
-web: python3S -m FileStream
+web: python3 -m FileStream
